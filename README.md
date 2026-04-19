@@ -2,7 +2,7 @@ POWER
 
 A simple web camera effect that lets you control elements with your hands!
 
-How to Play
+How to Play:
 
 Open index.html in your web browser.
 Allow access to your webcam.
